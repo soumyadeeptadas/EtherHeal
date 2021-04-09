@@ -39,6 +39,8 @@ Steps to run:
 
 - Metamask: Browser extension based interface for the transactions. Will automatically connect to the app upon activation.
 
+- The below tweaks for setup might require some knowledge of blockchain development.<br>
+(the address of the deployed smart contract should be added to the contract 'address' variable in oc.js in 'client' folder and 'hospitals' folder inside 'client' folder. Metamask should be connected as a custom RPC to the active ganache workspace.)
 
 ## Views
 
