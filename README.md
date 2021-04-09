@@ -1,5 +1,5 @@
 # EtherHeal-TrojanX
-Repository for EtherHeal, by team TrojanX for Rakathon 2021
+Repository for EtherealHeal, by team TrojanX for Rakathon 2021
 
 ## Ethereum based Organ Donation & Transplant Matching
 
