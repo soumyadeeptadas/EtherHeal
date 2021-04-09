@@ -17,7 +17,7 @@ topics: ethereum blockchain, smart contracts, organ donation, transplant matchin
 
 ### Presentation Link: [TrojanX_Presentation](https://github.com/soumyadeeptadas/EtherealHeal-TrojanX/blob/master/TrojanX-FINAL%20PPT-RakutenHack.pdf)
 
-### Demo Video: [TrojanX_Demo Video](https://drive.google.com/file/d/1JPYP95F7l4sa9xlSx_g6sqgIAxhiYBDF/view?usp=sharing)
+### Demo Video: [TrojanX_Demo Video](https://drive.google.com/file/d/11Ya2y1IxWz_ww4tZy-ZeNXj0fCy2lR5k/view)
 
 ## Getting Started
 
