@@ -45,12 +45,12 @@ Enter the ethereum address (public key) of the donor to view the current applica
 
 <br/>
 
-- If donor has not been matched with any recipient:-
+- If donor has not been matched with any recipient:-<br>
 It doesnt show the hospital and recipeint details as its not matched yet.
 
 <br/>
 
-- If donor has been matched with any recipient:-
+- If donor has been matched with any recipient:-<br>
 It shows the hospital and recipeint details of the matched recipient.
 
 <br/>
