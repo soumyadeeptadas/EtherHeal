@@ -33,7 +33,7 @@ Steps to run:
 - Metamask: Browser extension based interface for the transactions. Will automatically connect to the app upon activation.
 
 
-## Functionalities
+## Views
 
 - Donor Signup: <br/>
 Fill out the form and click on the submit button to register as a new donor.
@@ -46,10 +46,12 @@ Enter the ethereum address (public key) of the donor to view the current applica
 <br/>
 
 If donor has not been matched with any recipient:-
+- It doesnt show the hospital and recipeint details as its not matched yet.
 
 <br/>
 
 If donor has been matched with any recipient:-
+- It shows the hospital and recipeint details of the matched recipient.
 
 <br/>
 
@@ -59,28 +61,28 @@ Enter the hospital name and password to move to the dashboard.
 <br/>
 
 
-## Hospital Dashboard
+### Hospital Dashboard
 
 The hospital dashboard offers several functionalities each of which can be accessed by choosing the right option from the taskbar and filling out the required details.
 
 Some of the functionalities are:
 
 - Approve Donor: <br/>
-Enter details and click on submit.
+To approve a signed up donor using his public key
 
 <br/>
 
 - Register Recipient:<br/>
-Enter details and click on submit.
+To register a recipient on the platform
 
 <br/>
 
 - Transplant Match: <br/>
-Click on Match button for designated recipient to find its donor.
+Automated Transplant matching based on city, blood tyep, organ, etc.
 
 <br/>
 
 - Patient Record: <br/>
-Upload medical records of the patient.
+Upload and access medical records of the patient and donor.
 
 <br/>
