@@ -3,11 +3,10 @@ Repository for EtherHeal, by team TrojanX for Rakathon 2021
 
 ## Ethereum based Organ Donation & Transplant Matching
 
-### by TrojanX for Rakathon 2021
 
 ### Team Members: 
-@soumyadeeptadas
-@anasajwan2407
+![Soumyadeepta Das](@soumyadeeptadas)
+![Ananya Sajwan](@anasajwan2407)
 
 
 Organ Donation and Transplant Matching system using Ethereum blockchain technology, to provide functionalities like donor-recipient automated transplant matching for organ donation, easy access of medical records, and holistic platform for the whole system; in a highly secure, traceable and automated way, aiaming to enhance the whole system and process of organ distribution as well as transplant matching,saving lives and curb illegal activities like trafficking, etc.
