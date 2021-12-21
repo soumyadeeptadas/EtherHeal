@@ -1,8 +1,8 @@
-# EtherealHeal-TrojanX
-Repository for EtherealHeal, by team TrojanX for Rakathon 2021
+# EtherealHeal
 
 ## Ethereum based Organ Donation & Transplant Matching
 
+## Winning Project 1st: SynerGE HACK'E'LTH 2020
 
 ### Team Members: 
 - [Soumyadeepta Das](https://github.com/soumyadeeptadas)
