@@ -1,4 +1,4 @@
-# EtherealHeal
+# EtherHeal
 
 ## Ethereum based Organ Donation & Transplant Matching
 
